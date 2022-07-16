@@ -66,14 +66,17 @@ body {
 }
 #fundo-valor1 {
     margin-left: 105px;
-    }
+    background-image: url(../assets/img/New.png);
+    margin-right: 13px;
+}
+
 #descricao1 {
-    font-size: 10px;
+    font-size: 12px;
     margin-left: 12px;
     margin-right: 13px;
-    margin-bottom: 14px;
+    margin-bottom: 10px;
     text-align: justify;
-    margin-top: 0px;
+    margin-top: 5px;
 }
 .parte2 {
     height: 242px;
@@ -91,14 +94,16 @@ body {
 }
 #fundo-valor2 {
     margin-left: 105px;
+    background-image: url(../assets/img/Sale.png);
+    margin-right: 13px;
 }
 #descricao2 {
-    font-size: 10px;
+    font-size: 12px;
     margin-left: 12px;
     margin-right: 13px;
-    margin-bottom: 14px;
+    margin-bottom: 10px;
     text-align: justify;
-    margin-top: 0px;
+    margin-top: 5px;
 }
 
 #interiores {
@@ -157,16 +162,14 @@ body {
     color: #ffffff;
     font-weight: 400;
     font-size: 14px;
-    line-height: 13px;
     text-align: justify;
-    position: absolute; top: 1050px; left: 500px;
+    position: absolute; top: 1070px; left: 477px;
     line-height: 1.6;
-    
 }
 #localizacao {
     padding-top: 40px;
     padding-left: 48px;
-    }
+}
 
 #redes-sociais {
     position: absolute; top: 1190px; left: 500px;
@@ -179,12 +182,11 @@ body {
     text-align: justify;
 }
 #instagram-logo {
-    position: absolute; top: 1220px; left: 500px;
+    position: absolute; top: 1210px; left: 477px;
 }
 #facebook-logo {
-    position: absolute; top: 1220px; left: 545px;
+    position: absolute; top: 1210px; left: 514px;
 }
 #whatsapp-logo {
-    position: absolute; top: 1220px; left: 590px;
-
+    position: absolute; top: 1210px; left: 551px;
 }
